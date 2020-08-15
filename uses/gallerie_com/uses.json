@@ -1,0 +1,1727 @@
+[
+  {
+    "mineral": "Acanthite",
+    "uses": "An ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Actinolite",
+    "uses": "Asbestos and as ornamental stone used for carvings and semi-precious to precious stone used in jewelry"
+  },
+  { "mineral": "Adamite", "uses": "Only as mineral specimens" },
+  { "mineral": "Aegirine", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Aeschynite",
+    "uses": "A very minor ore of rare earth elements and as mineral specimens."
+  },
+  { "mineral": "Agate", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Ajoite",
+    "uses": "A very minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Albite",
+    "uses": "Ornamental stone, ceramics and mineral specimens."
+  },
+  { "mineral": "Alexandrite", "uses": "Gemstone." },
+  {
+    "mineral": "Allanite",
+    "uses": "As a source of rare earth metals and mineral specimens."
+  },
+  { "mineral": "Almandine", "uses": "Gemstone and abrasive" },
+  {
+    "mineral": "Altaite",
+    "uses": "As a very minor ore of lead and tellurium and as mineral specimens."
+  },
+  {
+    "mineral": "Aluminum",
+    "uses": "Anywhere a light weight metal is needed, also explosives and medications."
+  },
+  {
+    "mineral": "Alunite",
+    "uses": "As a minor source of alum, potassium and aluminum and as mineral specimens."
+  },
+  {
+    "mineral": "Amber",
+    "uses": "Ornamental stone, gemstone and semi-precious stone."
+  },
+  {
+    "mineral": "Amblygonite",
+    "uses": "As a source of lithium and phosphorus, as gemstones\nand as mineral specimens."
+  },
+  { "mineral": "Amethyst", "uses": "Gemstones and ornamental stones." },
+  { "mineral": "Analcime", "uses": "Mineral specimen and chemical filter." },
+  { "mineral": "Anapaite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Anatase",
+    "uses": "A very minor ore of titanium and as mineral specimens."
+  },
+  {
+    "mineral": "Andalusite",
+    "uses": "In the manufacture of spark plugs etc, as a gemstone and as mineral specimens."
+  },
+  {
+    "mineral": "Andersonite",
+    "uses": "Very minor ore of uranium and as mineral specimens."
+  },
+  { "mineral": "Andesine", "uses": "Only as mineral specimens." },
+  { "mineral": "Andradite", "uses": "Gemstone and abrasive" },
+  {
+    "mineral": "Angelite",
+    "uses": "In the manufacture of some cement, a source of sulfate for sulfuric acid."
+  },
+  { "mineral": "Anglesite", "uses": "A minor ore of lead" },
+  {
+    "mineral": "Anhydrite",
+    "uses": "In the manufacture of some cement, a source of sulfate for sulfuric acid."
+  },
+  {
+    "mineral": "Ankerite",
+    "uses": "A minor ore of iron and as mineral specimens."
+  },
+  {
+    "mineral": "Annabergite",
+    "uses": "A very minor ore of nickel and mineral specimens"
+  },
+  { "mineral": "Anorthite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Anthophyllite",
+    "uses": "Are limited to some asbestos uses and as mineral specimens."
+  },
+  {
+    "mineral": "Antimony",
+    "uses": "A very minor ore of antimony and as mineral specimens."
+  },
+  {
+    "mineral": "Antlerite",
+    "uses": "A minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Apatite",
+    "uses": "As a source of phosphorous to be used in fertilizer, rarely as a gemstone and as a mineral specimen."
+  },
+  { "mineral": "Apophyllite", "uses": "Only as mineral specimens." },
+  { "mineral": "Aquamarine", "uses": "Gemstone." },
+  {
+    "mineral": "Aragonite",
+    "uses": "Minor constituent of limestone which is used in cement and in steel production, ornamental carvings and as mineral specimens."
+  },
+  { "mineral": "Arfvedsonite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Argentite",
+    "uses": "An ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Argyrodite",
+    "uses": "As mineral specimens and as a very minor ore of silver."
+  },
+  {
+    "mineral": "Arsenic",
+    "uses": "A very minor ore of arsenic and as mineral specimens."
+  },
+  {
+    "mineral": "Arsenopyrite",
+    "uses": "Important ore of arsenic, minor source of gold and as mineral specimens."
+  },
+  { "mineral": "Arsentsumebite", "uses": "Only as a mineral specimen." },
+  { "mineral": "Arthurite", "uses": "Only as mineral specimens." },
+  { "mineral": "Artinite", "uses": "Only as mineral specimens." },
+  { "mineral": "Astrophyllite", "uses": "Mineral specimen" },
+  {
+    "mineral": "Atacamite",
+    "uses": "As a minor ore of copper and as mineral specimens."
+  },
+  { "mineral": "Augelite", "uses": "Only as mineral specimens." },
+  { "mineral": "Augite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Aurichalcite",
+    "uses": "Very minor ore of zinc and copper and as a mineral specimen"
+  },
+  { "mineral": "Austinite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Autunite",
+    "uses": "A minor ore of uranium and mineral specimens"
+  },
+  { "mineral": "Axinite", "uses": "Only as a mineral specimen" },
+  {
+    "mineral": "Azurite",
+    "uses": "Ornamental stone, pigment, minor ore of copper, and \njewelry."
+  },
+  { "mineral": "Babingtonite", "uses": "Mineral specimen" },
+  { "mineral": "Bakerite", "uses": "Only as mineral specimens." },
+  { "mineral": "Baratovite", "uses": "Only as a mineral specimen" },
+  { "mineral": "Barite", "uses": "Ore of barium" },
+  {
+    "mineral": "Basalt",
+    "uses": "Decorative stones, lava rocks for grills\nand  ovens"
+  },
+  {
+    "mineral": "Bastnasite",
+    "uses": "As an important ore of cerium and other rare earth metals and as mineral specimens."
+  },
+  {
+    "mineral": "Baumhauerite",
+    "uses": "As a very minor ore of lead and arsenic and as mineral specimens."
+  },
+  {
+    "mineral": "Bayldonite",
+    "uses": "Crafted as cabochons and as mineral specimens."
+  },
+  { "mineral": "Becquerelite", "uses": "As mineral specimens" },
+  { "mineral": "Benitoite", "uses": "As a gemstone and as a mineral specimen" },
+  { "mineral": "Beraunite", "uses": "Only as mineral specimens." },
+  { "mineral": "Berlinite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Berthierite",
+    "uses": "A minor ore of antimony and as mineral specimens."
+  },
+  {
+    "mineral": "Bertrandite",
+    "uses": "An ore of beryllium and as mineral specimens."
+  },
+  {
+    "mineral": "Beryl",
+    "uses": "Gemstone, mineral specimens and source of beryllium"
+  },
+  {
+    "mineral": "Beryllonite",
+    "uses": "As a collector's gemstone and as mineral specimens."
+  },
+  {
+    "mineral": "Betafite",
+    "uses": "A minor ore of rare earth elements and uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Beudantite",
+    "uses": "As a very minor source of lead and as mineral specimens."
+  },
+  { "mineral": "Bideauxite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Bif",
+    "uses": "Ore of iron, decorative ornamental stone for\ncarvings, gravestones, jewelry and tile"
+  },
+  {
+    "mineral": "Bindheimite",
+    "uses": "A very minor ore of lead and antimony and as mineral specimens."
+  },
+  { "mineral": "Biotite", "uses": "Heat insulator for industrial purposes." },
+  {
+    "mineral": "Bismuth",
+    "uses": "An ore of bismuth and as mineral specimens."
+  },
+  {
+    "mineral": "Bismuthinite",
+    "uses": "An ore of bismuth and as mineral specimens."
+  },
+  {
+    "mineral": "Bixbyite",
+    "uses": "A minor ore of manganese and as mineral specimens."
+  },
+  { "mineral": "Blodite", "uses": "Only as mineral specimens." },
+  { "mineral": "Bloodstone", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Boleite",
+    "uses": "A very minor ore of silver, copper and lead and as mineral specimens."
+  },
+  {
+    "mineral": "Boltwoodite",
+    "uses": "Mineral specimen and a very minor ore of uranium."
+  },
+  {
+    "mineral": "Boracite",
+    "uses": "An ore of boron for boric acid and borax (a cleaning agent\nand useful industrial chemical) and as mineral specimens."
+  },
+  {
+    "mineral": "Borax",
+    "uses": "An ore of boron and as a source of borax (a cleaning agent and useful industrial chemical)"
+  },
+  {
+    "mineral": "Bornite",
+    "uses": "Major ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Boulangerite",
+    "uses": "Mineral specimens and as minor ore of lead."
+  },
+  {
+    "mineral": "Bournonite",
+    "uses": "Minor ore of lead and copper and as a mineral specimen"
+  },
+  {
+    "mineral": "Brannerite",
+    "uses": "A major ore of uranium and radium, a source of helium and as a mineral specimen"
+  },
+  { "mineral": "Brass", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Brazilianite",
+    "uses": "As a gemstone and as mineral specimens"
+  },
+  {
+    "mineral": "Breccia",
+    "uses": "Building material, decorative stones, tiles, \n   tombstones,   monuments, jewelry, aquifers, natural gas and petroleum\n reservoirs"
+  },
+  {
+    "mineral": "Brochantite",
+    "uses": "A minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Brookite",
+    "uses": "A very minor ore of titanium and as mineral specimens."
+  },
+  {
+    "mineral": "Brucite",
+    "uses": "A minor source of metallic magnesium, a source of magnesia and as a refractory additive."
+  },
+  { "mineral": "Buergerite", "uses": "Only as mineral collection specimens" },
+  {
+    "mineral": "Burbankite",
+    "uses": "Only as mineral specimens and as a possible source of cerium."
+  },
+  {
+    "mineral": "Buttgenbachite",
+    "uses": "As a very minor ore of copper and as mineral specimens."
+  },
+  { "mineral": "Bytownite", "uses": "Only as a mineral specimen." },
+  { "mineral": "Cacoxenite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Calaverite",
+    "uses": "A very minor ore of gold and tellurium and as mineral specimens."
+  },
+  { "mineral": "Calciovolborthite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Calcite",
+    "uses": "In cements and mortars, production of lime, limestone is used\nin the steel industry; glass industry, ornamental stone, chemical and optical\nuses and as mineral specimens."
+  },
+  {
+    "mineral": "Caledonite",
+    "uses": "As a very minor ore of lead and copper and as mineral specimens."
+  },
+  {
+    "mineral": "Calomel",
+    "uses": "As a minor ore of mercury and as mineral specimens."
+  },
+  { "mineral": "Cancrinite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Carbocernaite",
+    "uses": "Only as mineral specimens and as a possible source of cerium."
+  },
+  { "mineral": "Carletonite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Carnallite",
+    "uses": "As a source of potash and a minor ore of magnesium and as mineral specimens."
+  },
+  { "mineral": "Carnelian", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Carnotite",
+    "uses": "An important ore of uranium and vanadium and as mineral specimens."
+  },
+  { "mineral": "Cassiterite", "uses": "Major ore of tin" },
+  { "mineral": "Catapleiite", "uses": "Only as a mineral specimen." },
+  { "mineral": "Cavansite", "uses": "Mineral specimens." },
+  { "mineral": "Celestite", "uses": "Ore of strontium" },
+  {
+    "mineral": "Cerussite",
+    "uses": "As an ore of lead and as mineral specimens."
+  },
+  { "mineral": "Chabazite", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Chalcanthite",
+    "uses": "A minor ore of copper, various chemical uses and as mineral\nspecimens."
+  },
+  {
+    "mineral": "Chalcocite",
+    "uses": "As a minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Chalcophyllite",
+    "uses": "A very minor ore of copper and as mineral specimens."
+  },
+  { "mineral": "Chalcopyrite", "uses": "Major ore of copper" },
+  { "mineral": "Chalcosiderite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Chalcotrichite",
+    "uses": "Ore of copper, rarely as a gemstone."
+  },
+  {
+    "mineral": "Charoite",
+    "uses": "An ornamental stone and also as gemstones."
+  },
+  {
+    "mineral": "Chengdeite",
+    "uses": "A very minor ore of iridium and as mineral specimens."
+  },
+  { "mineral": "Childrenite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Chkalovite",
+    "uses": "As mineral specimens and rarely as a \ngemstone."
+  },
+  {
+    "mineral": "Chlorapatite",
+    "uses": "As a source of phosphorous to be used in fertilizer, rarely as a gemstone and as a mineral specimen."
+  },
+  {
+    "mineral": "Chlorargyrite",
+    "uses": "As a minor ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Chlorite",
+    "uses": "As a mineral specimen and some industrial uses."
+  },
+  { "mineral": "Chondrodite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Chromite",
+    "uses": "The principle ore of chromium, as a refractory component, as a dye and as mineral specimens."
+  },
+  {
+    "mineral": "Chromium",
+    "uses": "Many applications for the metal chromium."
+  },
+  { "mineral": "Chrysoberyl", "uses": "As a gemstone and an ore of beryllium" },
+  {
+    "mineral": "Chrysocolla",
+    "uses": "Minor ore of copper and an ornamental stone."
+  },
+  { "mineral": "Chrysoprase", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Chrysotile",
+    "uses": "Many industrial applications, including brake linings and fireproof fabrics and as an ornamental stone."
+  },
+  {
+    "mineral": "Churchite",
+    "uses": "As a very minor ore of yttrium and erbium and as mineral specimens."
+  },
+  {
+    "mineral": "Cinnabar",
+    "uses": "Primary ore of mercury, a pigment and as a minerals specimen."
+  },
+  { "mineral": "Citrine", "uses": "Gemstone and ornamental stone" },
+  {
+    "mineral": "Clausthalite",
+    "uses": "As a very minor ore of lead and selenium and as mineral specimens."
+  },
+  {
+    "mineral": "Cleavelandite",
+    "uses": "Ornamental stone, ceramics and mineral specimens."
+  },
+  { "mineral": "Cliffordite", "uses": "Only as mineral specimens." },
+  { "mineral": "Clinochlore", "uses": "As mineral specimens." },
+  { "mineral": "Clinoclase", "uses": "Mineral specimens" },
+  {
+    "mineral": "Clinohedrite",
+    "uses": "A very minor ore of zinc and as mineral specimens."
+  },
+  {
+    "mineral": "Clinohumite",
+    "uses": "Rarely cut as a gemstone and as mineral specimens."
+  },
+  {
+    "mineral": "Clinoptilolite",
+    "uses": "As a chemical filter, chemical absorber, water purifier and as mineral specimens."
+  },
+  {
+    "mineral": "Coal",
+    "uses": "Source of energy, lubricant, pigment and source\n  of carbon for industrial purposes"
+  },
+  { "mineral": "Cobalt", "uses": "Many applications for metallic cobalt." },
+  {
+    "mineral": "Cobaltite",
+    "uses": "Important ore of cobalt and as mineral specimens."
+  },
+  {
+    "mineral": "Cobaltocalcite",
+    "uses": "Very minor ore of cobalt and as a mineral specimen."
+  },
+  {
+    "mineral": "Coconinoite",
+    "uses": "A very minor ore of uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Coesite",
+    "uses": "As an indicator of high pressure crystallization (possibly a meteorite impact) and as mineral specimens."
+  },
+  {
+    "mineral": "Colemanite",
+    "uses": "An ore of boron and as a source of borax (a cleaning agent and useful industrial chemical)"
+  },
+  { "mineral": "Collinsite", "uses": "Mineral specimens." },
+  {
+    "mineral": "Columbite",
+    "uses": "An ore of niobium and tantalum and as mineral specimens."
+  },
+  {
+    "mineral": "Conichalcite",
+    "uses": "A minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Connellite",
+    "uses": "As a minor ore of copper and as mineral specimens."
+  },
+  { "mineral": "Copiapite", "uses": "Only as mineral specimens." },
+  { "mineral": "Copper", "uses": "Minor ore of copper, ornamental stone" },
+  {
+    "mineral": "Cordierite",
+    "uses": "As a gemstone and as a mineral specimen."
+  },
+  {
+    "mineral": "Cordylite",
+    "uses": "As a very minor ore of cerium and other rare earth metals and as mineral specimens."
+  },
+  { "mineral": "Cornetite", "uses": "Mineral specimens." },
+  {
+    "mineral": "Corundum",
+    "uses": "As a gemstone, mineral specimens and as an abrasive."
+  },
+  {
+    "mineral": "Covellite",
+    "uses": "Minor ore of copper and as mineral specimens."
+  },
+  { "mineral": "Creedite", "uses": "Mineral specimens" },
+  {
+    "mineral": "Cristobalite",
+    "uses": "As an indicator of high temperature crystallization and as mineral specimens."
+  },
+  {
+    "mineral": "Crocoite",
+    "uses": "Only as mineral specimens and as a minor ore of chromium."
+  },
+  { "mineral": "Crocidolite", "uses": "As asbestos and as mineral specimens." },
+  {
+    "mineral": "Cryolite",
+    "uses": "As a aid to aluminum processing and other industrial uses and as mineral specimens."
+  },
+  {
+    "mineral": "Cubanite",
+    "uses": "A very minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Cumengite",
+    "uses": "A very minor ore of lead and copper and as mineral specimens."
+  },
+  {
+    "mineral": "Cummingtonite",
+    "uses": "Are limited to some asbestos uses and as mineral specimens."
+  },
+  { "mineral": "Cuprite", "uses": "Ore of copper, rarely as a gemstone." },
+  { "mineral": "Cuproadamite", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Cuprosklodowskite",
+    "uses": "Mineral specimen and very minor ore of uranium"
+  },
+  { "mineral": "Cyanotrichite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Cylindrite",
+    "uses": "Mineral specimens and as a very minor ore of lead and tin."
+  },
+  { "mineral": "Danburite", "uses": "Mineral specimen" },
+  {
+    "mineral": "Datolite",
+    "uses": "As a mineral specimen, rarely as an ornamental stone and as a minor gemstone."
+  },
+  {
+    "mineral": "Descloizite",
+    "uses": "As a minor ore of lead and zinc and as mineral specimens"
+  },
+  { "mineral": "Demantoid", "uses": "Gemstone." },
+  {
+    "mineral": "Diaboleite",
+    "uses": "A very minor ore of copper and lead and as mineral specimens."
+  },
+  {
+    "mineral": "Diamond",
+    "uses": "Usually as a gemstone and abrasive, \nalso scientific uses."
+  },
+  {
+    "mineral": "Digenite",
+    "uses": "As an important ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Diopside",
+    "uses": "Occasionally used as a gemstone and as a mineral specimen."
+  },
+  {
+    "mineral": "Dioptase",
+    "uses": "Mineral specimen, rarely a gemstone and a very minor ore of copper."
+  },
+  {
+    "mineral": "Dolomite",
+    "uses": "In some cements, as a source of magnesium and as mineral specimens."
+  },
+  {
+    "mineral": "Domeykite",
+    "uses": "Mineral specimens, ornamental stone and as a minor ore of copper."
+  },
+  { "mineral": "Dravite", "uses": "Mineral collection specimens" },
+  { "mineral": "Dufrenite", "uses": "Only as mineral specimens." },
+  { "mineral": "Duftite", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Dumortierite",
+    "uses": "As an ornamental and semi-precious stone, in the manufacture of high grade ceramics and porcelain and as mineral specimens."
+  },
+  {
+    "mineral": "Dundasite",
+    "uses": "As a very minor ore of lead and as mineral specimens."
+  },
+  {
+    "mineral": "Dyscrasite",
+    "uses": "Mineral specimens and as a minor ore of silver."
+  },
+  { "mineral": "Edenite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Edingtonite",
+    "uses": "As mineral specimens and chemical filters."
+  },
+  {
+    "mineral": "Elbaite",
+    "uses": "As gemstones, ornamental stone and mineral collection specimens."
+  },
+  { "mineral": "Elpidite", "uses": "Only as mineral specimens." },
+  { "mineral": "Emerald", "uses": "Gemstone." },
+  {
+    "mineral": "Emmonsite",
+    "uses": "A very minor ore of tellurium and as mineral specimens."
+  },
+  {
+    "mineral": "Emplectite",
+    "uses": "As mineral specimens and as a very minor ore of copper and bismuth."
+  },
+  {
+    "mineral": "Enargite",
+    "uses": "As a minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Enstatite",
+    "uses": "As mineral specimens and some varieties are cut as gemstones."
+  },
+  { "mineral": "Eosphorite", "uses": "Only as mineral specimens." },
+  { "mineral": "Epididymite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Epidote",
+    "uses": "Mineral specimens and rarely as a gemstone."
+  },
+  { "mineral": "Epistilbite", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Epsomite",
+    "uses": "A source of magnesium salts, various chemical and medicinal\nuses and as mineral specimens."
+  },
+  { "mineral": "Erionite", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Erythrite",
+    "uses": "A very minor ore of cobalt and mineral specimens"
+  },
+  {
+    "mineral": "Esperite",
+    "uses": "A very minor ore of zinc and as mineral specimens."
+  },
+  { "mineral": "Ettringite", "uses": "Only as mineral specimens." },
+  { "mineral": "Euclase", "uses": "Gemstone and as mineral specimens." },
+  {
+    "mineral": "Eucryptite",
+    "uses": "Rarely cut as a gemstone, more common as mineral specimens."
+  },
+  {
+    "mineral": "Eudialyte",
+    "uses": "As mineral collection specimens and rarely cut as a \ngemstone."
+  },
+  { "mineral": "Eudidymite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Euxenite",
+    "uses": "A minor ore of rare earth elements and uranium, sometimes\ncut as a gemstone\nand as mineral specimens."
+  },
+  {
+    "mineral": "Fayalite",
+    "uses": "As refractory sands, abrasives, gemstones and as mineral specimens."
+  },
+  { "mineral": "Fedorite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Ferberite",
+    "uses": "As a minor ore of tungsten (an important industrial element) and as a mineral specimen"
+  },
+  { "mineral": "Ferro-edenite", "uses": "Only as mineral specimens." },
+  { "mineral": "Ferroglaucophane", "uses": "Only as mineral specimens." },
+  { "mineral": "Fiedlerite", "uses": "Only as mineral specimens." },
+  { "mineral": "Flint", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Fluorapatite",
+    "uses": "As a source of phosphorous to be used in fertilizer, rarely as a gemstone and as a mineral specimen."
+  },
+  {
+    "mineral": "Fluorite",
+    "uses": "As a flux (hence the name) in iron smelting, a rare \ngemstone, a source of fluorine, \n\nas special optical lenses and a popular mineral specimen."
+  },
+  { "mineral": "Fluorrichterite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Forsterite",
+    "uses": "As gemstones, industrial uses as refractory sands and abrasives, an ore of magnesium and as mineral specimens."
+  },
+  {
+    "mineral": "Franckeite",
+    "uses": "A very minor ore of lead and tin and as a mineral specimen."
+  },
+  {
+    "mineral": "Franklinite",
+    "uses": "Important ore of zinc and manganese and as mineral specimens."
+  },
+  { "mineral": "Fuchsite", "uses": "Mineral specimen and ornamental stone." },
+  { "mineral": "Fulgarite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Gadolinite",
+    "uses": "A minor source of rare earth metals and as mineral specimens."
+  },
+  { "mineral": "Gahnite", "uses": "Only as a mineral specimens." },
+  { "mineral": "Galena", "uses": "Major ore of lead and silver" },
+  {
+    "mineral": "Gaspeite",
+    "uses": "As an ornamental stone and as mineral specimens."
+  },
+  { "mineral": "Gaylussite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Gersdorffite",
+    "uses": "As a very minor ore of nickel and as mineral specimens."
+  },
+  { "mineral": "Gibbsite", "uses": "A minor source of metallic aluminum." },
+  {
+    "mineral": "Glauberite",
+    "uses": "A minor source of \"glauber's salt\", na2so4, and as mineral specimens."
+  },
+  { "mineral": "Glaucophane", "uses": "Only as mineral specimens." },
+  { "mineral": "Gmelinite", "uses": "Mineral specimen and chemical filter." },
+  { "mineral": "Goethite", "uses": "Important ore of iron, pigment" },
+  { "mineral": "Gold", "uses": "Major ore of gold and as mineral specimens." },
+  {
+    "mineral": "Goosecreekite",
+    "uses": "Mineral specimen and chemical filter."
+  },
+  { "mineral": "Gormanite", "uses": "Only as mineral specimens." },
+  { "mineral": "Goshenite", "uses": "Gemstone and as a source of beryllium." },
+  { "mineral": "Graemite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Granite",
+    "uses": "Building material, decorative counter tops, tiles, \ntombstones,  roads, jewelry, curling stones, marbles"
+  },
+  {
+    "mineral": "Graphite",
+    "uses": "For the lead in pencils, as a toughener of steel, in high-strength \ncomposites and as a lubricant."
+  },
+  {
+    "mineral": "Gratonite",
+    "uses": "Mineral specimens and as a very minor ore of lead."
+  },
+  {
+    "mineral": "Greenockite",
+    "uses": "A minor ore of cadmium and as mineral specimens."
+  },
+  {
+    "mineral": "Grossular",
+    "uses": "Abrasive, mineral specimens and as a gemstone"
+  },
+  {
+    "mineral": "Gypsum",
+    "uses": "Plaster, wall board, some cements, fertilizer, paint filler, ornamental stone, etc.."
+  },
+  { "mineral": "Gyrolite", "uses": "Mineral specimen" },
+  { "mineral": "Hackmanite", "uses": "Mineral specimens and ornamental stone" },
+  {
+    "mineral": "Halite",
+    "uses": "Major source of salt and as mineral specimens."
+  },
+  { "mineral": "Hanksite", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Hardystonite",
+    "uses": "A very minor ore of zinc and as mineral specimens."
+  },
+  { "mineral": "Harmotome", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Hausmannite",
+    "uses": "A minor ore of manganese and as a mineral specimen."
+  },
+  { "mineral": "Hedenbergite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Hedyphane",
+    "uses": "As a very minor ore of lead and as mineral specimens."
+  },
+  { "mineral": "Heliodor", "uses": "Gemstone." },
+  {
+    "mineral": "Hematite",
+    "uses": "Very important ore of iron, as a pigment and as mineral specimens."
+  },
+  { "mineral": "Hemimorphite", "uses": "Minor ore of zinc" },
+  {
+    "mineral": "Herderite",
+    "uses": "As a very minor ore of beryllium and phosphorus and as mineral\nspecimens."
+  },
+  {
+    "mineral": "Hessite",
+    "uses": "As mineral specimens and as a very minor ore of silver and tellurium."
+  },
+  { "mineral": "Hessonite", "uses": "Gemstone." },
+  {
+    "mineral": "Heulandite",
+    "uses": "As chemical filters and as mineral specimens."
+  },
+  { "mineral": "Hiddenite", "uses": "Gemstone." },
+  { "mineral": "Hilairite", "uses": "Only as mineral specimens." },
+  { "mineral": "Hinsdalite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Hodgkinsonite",
+    "uses": "A very minor ore of zinc and as mineral specimens."
+  },
+  { "mineral": "Hopeite", "uses": "Only as a mineral specimen." },
+  { "mineral": "Hornblend", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Howlite",
+    "uses": "As a source of boron, as an ornamental stone for carved beads, figurines and polished cabochons, as a turquoise substitute and as mineral specimens."
+  },
+  {
+    "mineral": "Huebnerite",
+    "uses": "A minor ore of tungsten (an important industrial element) and as a mineral specimen."
+  },
+  { "mineral": "Humite", "uses": "Only as mineral specimens." },
+  { "mineral": "Hureaulite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Hydroboracite",
+    "uses": "As a minor source of boron and as mineral specimens."
+  },
+  { "mineral": "Hydromagnesite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Hydroxylapatite",
+    "uses": "As a source of phosphorous to be used in fertilizer, rarely as a gemstone and as a mineral specimen."
+  },
+  {
+    "mineral": "Hydroxylbastnasite",
+    "uses": "As an important ore of cerium and other rare earth metals and as mineral specimens."
+  },
+  {
+    "mineral": "Hydrozincite",
+    "uses": "Minor ore of zinc and as a mineral specimen"
+  },
+  {
+    "mineral": "Hypersthene",
+    "uses": "As mineral specimens and there is an ornamental variety"
+  },
+  { "mineral": "Ice", "uses": "Source of water." },
+  {
+    "mineral": "Idocrase",
+    "uses": "Mineral specimens and the gemstone, idocrase"
+  },
+  { "mineral": "Ilvaite", "uses": "Mineral specimens" },
+  {
+    "mineral": "Ilmenite",
+    "uses": "As the major ore of titanium, a minor ore of iron, as a flux in blast furnaces, as an abrasive and as mineral specimens."
+  },
+  { "mineral": "Indicolite", "uses": "Gemstone." },
+  { "mineral": "Inesite", "uses": "Only as mineral specimens." },
+  { "mineral": "Iolite", "uses": "Gemstone" },
+  {
+    "mineral": "Iron",
+    "uses": "As a mineral specimen and scientific studies."
+  },
+  { "mineral": "Jade", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Jadeite",
+    "uses": "As an ornamental stone used for carvings and semi-precious to precious stone used in jewelry"
+  },
+  { "mineral": "Jamesonite", "uses": "Mineral specimens" },
+  { "mineral": "Jarosite", "uses": "Only as mineral specimens." },
+  { "mineral": "Jasper", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Joaquinite", "uses": "Only as a mineral specimen" },
+  {
+    "mineral": "Jordanite",
+    "uses": "As a very minor ore of lead and arsenic and as mineral specimens."
+  },
+  { "mineral": "Kaemmererite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Kaolinite",
+    "uses": "In the production of ceramics, as a filler for paint, rubber and plastics and the largest use is in the paper industry to produce a glossy paper such as is used in most magazines."
+  },
+  {
+    "mineral": "Kermesite",
+    "uses": "A very minor ore of antimony and as mineral specimens."
+  },
+  { "mineral": "Kernite", "uses": "An ore of boron and as mineral specimens." },
+  { "mineral": "Kidwellite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Kieserite",
+    "uses": "As a minor source of magnesium and as mineral specimens."
+  },
+  {
+    "mineral": "Kinoite",
+    "uses": "A very minor ore of copper and as an ornamental stone."
+  },
+  { "mineral": "Knaufite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Kolwezite",
+    "uses": "A very minor ore of copper and cobalt, and as mineral specimens."
+  },
+  {
+    "mineral": "Kornerupine",
+    "uses": "As a gemstone and as mineral collection specimens."
+  },
+  {
+    "mineral": "Kottigite",
+    "uses": "A very minor ore of zinc and mineral specimens"
+  },
+  { "mineral": "Kovdorskite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Ktenasite",
+    "uses": "As a very minor ore of copper and zinc and as mineral specimens."
+  },
+  { "mineral": "Kulanite", "uses": "Only as mineral specimens." },
+  { "mineral": "Kunzite", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Kupletskite", "uses": "Only as mineral specimens." },
+  { "mineral": "Kutnohorite", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Kyanite",
+    "uses": "In the manufacture of spark plugs etc and as mineral specimens."
+  },
+  { "mineral": "Labradorite", "uses": "Ornamental and semi-precious stone" },
+  { "mineral": "Larderellite", "uses": "Only as mineral specimens." },
+  { "mineral": "Larimar", "uses": "Ornamental stone and semi-precious stone." },
+  { "mineral": "Laueite", "uses": "Only as mineral specimens." },
+  { "mineral": "Laumontite", "uses": "Mineral specimen and chemical filter" },
+  {
+    "mineral": "Laurionite",
+    "uses": "As a very minor ore of lead and as mineral specimens."
+  },
+  {
+    "mineral": "Lazulite",
+    "uses": "Mineral specimens, ornamental stone and as a rare gemstone."
+  },
+  {
+    "mineral": "Lazurite",
+    "uses": "Mineral specimens, jewelry, and ornamental stones"
+  },
+  {
+    "mineral": "Lead",
+    "uses": "Only as mineral specimens.  however, processed lead has many uses."
+  },
+  { "mineral": "Leadhillite", "uses": "Only as mineral specimens." },
+  { "mineral": "Lechatelierite", "uses": "Only as mineral specimens." },
+  { "mineral": "Legrandite", "uses": "Only as mineral specimens" },
+  { "mineral": "Leifite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Lepidolite",
+    "uses": "Ore of lithium, ornamental stone and heat insulator for industrial purposes."
+  },
+  {
+    "mineral": "Leucite",
+    "uses": "Mineral specimen and as a minor source of potassium and aluminum."
+  },
+  {
+    "mineral": "Leucochalcite",
+    "uses": "As mineral specimens and minor ore of copper."
+  },
+  {
+    "mineral": "Leucophanite",
+    "uses": "Very minor source of cerium and as mineral specimens."
+  },
+  { "mineral": "Libethenite", "uses": "Mineral specimens" },
+  {
+    "mineral": "Limonite",
+    "uses": "Important ore of iron, as a pigment and as mineral specimens."
+  },
+  { "mineral": "Linarite", "uses": "Mineral specimens" },
+  {
+    "mineral": "Linnaeite",
+    "uses": "As an important ore of cobalt and as\nmineral specimens."
+  },
+  { "mineral": "Liroconite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Lithiophilite",
+    "uses": "As a source of lithium and phosphorus and as mineral\nspecimens."
+  },
+  {
+    "mineral": "Lollingite",
+    "uses": "As a minor ore of arsenic and as mineral specimens."
+  },
+  { "mineral": "Lorenzenite", "uses": "Mineral specimens" },
+  { "mineral": "Larimar", "uses": "Ornamental stone and semi-precious stone." },
+  { "mineral": "Ludlamite", "uses": "Only as mineral specimens." },
+  { "mineral": "Macphersonite", "uses": "Only as mineral specimens." },
+  { "mineral": "Magnesite", "uses": "An ore of magnesium" },
+  {
+    "mineral": "Magnetite",
+    "uses": "Major ore of iron and as mineral specimens"
+  },
+  {
+    "mineral": "Malachite",
+    "uses": "As mineral specimens, an important ore of copper, as an ornamental stone, a pigment and for \njewelry."
+  },
+  { "mineral": "Manganbabingtonite", "uses": "Only as mineral specimens." },
+  { "mineral": "Manganese", "uses": "Many applications for manganese." },
+  {
+    "mineral": "Manganite",
+    "uses": "A minor source of manganese and as a mineral specimen"
+  },
+  { "mineral": "Marcasite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Massicot",
+    "uses": "As a minor ore of lead, a pigment and as mineral specimens."
+  },
+  { "mineral": "Melanite", "uses": "Gemstone." },
+  { "mineral": "Melanophlogite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Melanterite",
+    "uses": "A very minor ore of iron and as mineral specimens."
+  },
+  {
+    "mineral": "Meneghinite",
+    "uses": "Mineral specimens and as a very minor ore of lead."
+  },
+  {
+    "mineral": "Mercury",
+    "uses": "Minor ore of mercury, electrical switches, thermometers"
+  },
+  { "mineral": "Mesolite", "uses": "Mineral specimen and chemical filter" },
+  {
+    "mineral": "Meta-ankoleite",
+    "uses": "A very minor ore of uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Meta-autunite",
+    "uses": "A minor ore of uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Meta-torbernite",
+    "uses": "A very minor ore of uranium and mineral specimens"
+  },
+  {
+    "mineral": "Meta-uranocircite",
+    "uses": "A minor ore of uranium and as mineral specimens."
+  },
+  { "mineral": "Meta-variscite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Meta-zeunerite",
+    "uses": "A very minor ore of uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Miargyrite",
+    "uses": "Mineral specimens and as a minor ore of silver."
+  },
+  {
+    "mineral": "Microcline",
+    "uses": "Ornamental stone, in the manufacture of glass, enamel and porcelain products and as mineral specimens."
+  },
+  {
+    "mineral": "Microlite",
+    "uses": "A very minor ore of tantalum, as mineral specimens and sometimes cut as a gemstone."
+  },
+  { "mineral": "Milarite", "uses": "Only as mineral specimens." },
+  { "mineral": "Milky_quartz", "uses": "Ornamental stone." },
+  {
+    "mineral": "Millerite",
+    "uses": "Mineral specimens and as a very minor ore of nickel."
+  },
+  {
+    "mineral": "Mimetite",
+    "uses": "As a minor ore of lead and mineral specimens."
+  },
+  { "mineral": "Minasgeraisite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Minium",
+    "uses": "As a minor ore of lead, a pigment and as mineral specimens."
+  },
+  { "mineral": "Mixite", "uses": "Only as mineral specimens" },
+  { "mineral": "Moctezumite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Moissanite",
+    "uses": "Only as mineral specimens, but artificial material has many uses especially as an abrasive, semi-conductor and as diamond simulants."
+  },
+  {
+    "mineral": "Moldavite",
+    "uses": "As a gemstone and as collection specimens"
+  },
+  {
+    "mineral": "Molybdenite",
+    "uses": "Major ore of molybdenum and as mineral specimens"
+  },
+  {
+    "mineral": "Monazite",
+    "uses": "As an ore of rare earth metals especially thorium, cerium\nand lanthanum, radioactive dating uses and as mineral specimens."
+  },
+  {
+    "mineral": "Montebrasite",
+    "uses": "As a source of lithium and phosphorus and as mineral\n\nspecimens."
+  },
+  {
+    "mineral": "Montmorillonite",
+    "uses": "As a drilling mud and as a water clogging agent in soil."
+  },
+  {
+    "mineral": "Moonstone",
+    "uses": "Ornamental and semi-precious stone and as mineral specimens."
+  },
+  { "mineral": "Mordenite", "uses": "Mineral specimen and chemical filter." },
+  { "mineral": "Morganite", "uses": "Gemstone." },
+  {
+    "mineral": "Moschellandsbergite",
+    "uses": "A very very minor ore of silver and mercury and as mineral specimens."
+  },
+  {
+    "mineral": "Mottramite",
+    "uses": "As a minor ore of lead and copper and as mineral specimens"
+  },
+  { "mineral": "Murmanite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Muscovite",
+    "uses": "Heat and electrical insulator for industrial purposes."
+  },
+  {
+    "mineral": "Nagyagite",
+    "uses": "As a very minor ore of gold and as mineral specimens."
+  },
+  {
+    "mineral": "Nahcolite",
+    "uses": "As baking soda, as a chemical buffer, and (rarely) as mineral \nspecimens"
+  },
+  {
+    "mineral": "Narsarsukite",
+    "uses": "Only as mineral specimens and cut as gemstones for gemstone collectors."
+  },
+  { "mineral": "Natrojarosite", "uses": "Only as mineral specimens." },
+  { "mineral": "Natrolite", "uses": "Mineral specimen and chemical filter" },
+  { "mineral": "Nealite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Nepheline",
+    "uses": "As mineral specimens and as raw material for special kinds of glass and ceramics."
+  },
+  {
+    "mineral": "Nephrite",
+    "uses": "Asbestos and as ornamental stone used for carvings and semi-precious to precious stone used in jewelry"
+  },
+  { "mineral": "Neptunite", "uses": "Mineral specimens." },
+  {
+    "mineral": "Nickel",
+    "uses": "As a mineral specimen and scientific studies."
+  },
+  {
+    "mineral": "Nickeline",
+    "uses": "As a minor ore of nickel and as mineral specimens."
+  },
+  { "mineral": "Niter", "uses": "As a source of nitrate." },
+  {
+    "mineral": "Nitratine",
+    "uses": "As a source of nitrate for fertilizer and as mineral specimens."
+  },
+  { "mineral": "Norbergite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Obsidian",
+    "uses": "As a semiprecious stone and ornamental stone for carvings."
+  },
+  { "mineral": "Okenite", "uses": "Mineral specimen" },
+  {
+    "mineral": "Oligoclase",
+    "uses": "Ornamental and semi-precious stone and as mineral specimens."
+  },
+  {
+    "mineral": "Olivine",
+    "uses": "As gemstones, industrial uses as refractory sands and abrasives, an ore of magnesium and as mineral specimens."
+  },
+  {
+    "mineral": "Olivenite",
+    "uses": "As mineral specimens and minor ore of copper."
+  },
+  { "mineral": "Onyx", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Opal", "uses": "As a gemstone and ornamental stone." },
+  {
+    "mineral": "Orpiment",
+    "uses": "Formerly used as pigments and for chemical uses."
+  },
+  {
+    "mineral": "Orthoclase",
+    "uses": "Mineral specimens and in the porcelain industry."
+  },
+  { "mineral": "Osbornite", "uses": "Only as mineral specimens." },
+  { "mineral": "Osumilite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Otavite",
+    "uses": "A minor ore of cadmium and as mineral specimens."
+  },
+  { "mineral": "Pachnolite", "uses": "As mineral specimens." },
+  { "mineral": "Palygorskite", "uses": "Only as mineral specimens." },
+  { "mineral": "Papagoite", "uses": "Only as a mineral specimen" },
+  { "mineral": "Paradamite", "uses": "Only as mineral specimens" },
+  { "mineral": "Parasymplesite", "uses": "Only as mineral specimens." },
+  { "mineral": "Paravauxite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Parisite",
+    "uses": "As a minor ore of cerium and other rare earth metals and as mineral specimens."
+  },
+  {
+    "mineral": "Pectolite",
+    "uses": "Mineral specimens and as a semi-precious stone."
+  },
+  {
+    "mineral": "Pentlandite",
+    "uses": "As the principle ore of nickel, a minor ore of iron and as\nmineral specimens."
+  },
+  {
+    "mineral": "Periclase",
+    "uses": "As mineral specimens and sometimes as gemstones."
+  },
+  { "mineral": "Peridot", "uses": "Gemstone." },
+  {
+    "mineral": "Perovskite",
+    "uses": "A minor ore of titanium and rare earth metals and as mineral\nspecimens."
+  },
+  { "mineral": "Pharmacolite", "uses": "Only as mineral specimens." },
+  { "mineral": "Pharmacosiderite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Phenakite",
+    "uses": "Sometimes cut as a gemstone and as mineral specimens."
+  },
+  { "mineral": "Phillipsite", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Phlogopite",
+    "uses": "Heat and electrical insulator for industrial purposes."
+  },
+  { "mineral": "Phosgenite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Phosphophyllite",
+    "uses": "As collector's gemstone and as mineral specimens."
+  },
+  {
+    "mineral": "Phosphuranylite",
+    "uses": "As a very minor ore of uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Picromerite",
+    "uses": "As a minor source of magnesium and as mineral specimens."
+  },
+  { "mineral": "Pirssonite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Plancheite",
+    "uses": "A very minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Platinum",
+    "uses": "Important ore of platinum and other rare metals.  platinum metal is used for jewelry, chemical and other industrial uses as well as a currency stabilizer."
+  },
+  {
+    "mineral": "Plattnerite",
+    "uses": "A very minor ore of lead and as mineral specimens."
+  },
+  {
+    "mineral": "Polybasite",
+    "uses": "An ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Polyhalite",
+    "uses": "As a minor source of potassium and as mineral specimens."
+  },
+  { "mineral": "Polylithionite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Powellite",
+    "uses": "As a minor ore of molybdenum (an important industrial metal) and as mineral specimens."
+  },
+  { "mineral": "Prasiolite", "uses": "Gemstone and ornamental stone." },
+  {
+    "mineral": "Prehnite",
+    "uses": "As mineral specimens and limited use for ornamental stone purposes."
+  },
+  {
+    "mineral": "Proustite",
+    "uses": "A minor ore of silver, as mineral specimens and as a rare gemstone."
+  },
+  {
+    "mineral": "Pseudoboleite",
+    "uses": "A very minor ore of copper and lead and as mineral specimens."
+  },
+  {
+    "mineral": "Pseudobrookite",
+    "uses": "A very minor ore of titanium and as mineral specimens."
+  },
+  {
+    "mineral": "Pseudomalachite",
+    "uses": "As a very minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Psilomelane",
+    "uses": "An ore of manganese and as a mineral specimen"
+  },
+  { "mineral": "Pucherite", "uses": "Only as mineral specimens" },
+  { "mineral": "Purpurite", "uses": "Only as a mineral specimens." },
+  {
+    "mineral": "Pyrargyrite",
+    "uses": "An ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Pyrite",
+    "uses": "A very minor ore of sulfur for sulfuric acid, used in jewelry under the trade name \"marcasite\" and as mineral specimens."
+  },
+  { "mineral": "Pyroaurite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Pyrochlore",
+    "uses": "A very minor ore of niobium and rare earth metals and as mineral specimens."
+  },
+  {
+    "mineral": "Pyrolusite",
+    "uses": "A major ore of manganese and as a mineral specimen"
+  },
+  {
+    "mineral": "Pyromorphite",
+    "uses": "As a minor ore of lead and mineral specimens"
+  },
+  { "mineral": "Pyrope", "uses": "Gemstone and abrasive" },
+  {
+    "mineral": "Pyrophyllite",
+    "uses": "As a refractory mineral, as a filler for rubber, paints and insecticides, as an ornamental stone, as a component of ceramics and as mineral specimens."
+  },
+  {
+    "mineral": "Pyrrhotite",
+    "uses": "Mineral specimens and as an ore of sulfur and iron."
+  },
+  {
+    "mineral": "Quartz",
+    "uses": "Silica for glass, electrical components, optical lenses, abrasives,\ngemstones, ornamental\nstone, building stone, etc."
+  },
+  {
+    "mineral": "Quetzalcoatlite",
+    "uses": "A very minor ore of tellurium and as mineral specimens."
+  },
+  { "mineral": "Raite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Rammelsbergite",
+    "uses": "As a very minor ore of nickel and arsenic and as mineral specimens."
+  },
+  {
+    "mineral": "Ramsdellite",
+    "uses": "A minor ore of manganese and as a mineral specimen."
+  },
+  {
+    "mineral": "Realgar",
+    "uses": "A major ore of arsenic, formerly used for pigments, firework coloring agent and as mineral specimens."
+  },
+  {
+    "mineral": "Rhabdophane",
+    "uses": "As a minor ore of cerium and as mineral specimens."
+  },
+  { "mineral": "Rheniite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Rhodizite",
+    "uses": "As mineral specimens and sometimes cut as a gemstone."
+  },
+  {
+    "mineral": "Rhodochrosite",
+    "uses": "As a minor ore of manganese, an ornamental and semi-precious \ngemstone and as mineral specimens."
+  },
+  { "mineral": "Rhodolite", "uses": "Gemstone and abrasive" },
+  {
+    "mineral": "Rhodonite",
+    "uses": "Ornamental and semi-precious stone and as a minor ore of manganese"
+  },
+  { "mineral": "Richterite", "uses": "Only as mineral specimens" },
+  { "mineral": "Riebeckite", "uses": "As asbestos and as mineral specimens." },
+  { "mineral": "Rock_crystal", "uses": "Ornamental stone and gemstone." },
+  { "mineral": "Rockbridgeite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Romanechite",
+    "uses": "An ore of manganese and as a mineral specimen"
+  },
+  {
+    "mineral": "Rosasite",
+    "uses": "Very minor ore of zinc and copper and as a mineral\nspecimen"
+  },
+  { "mineral": "Rose_quartz", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Roselite", "uses": "Only as mineral specimens" },
+  { "mineral": "Ruby", "uses": "Gemstone." },
+  {
+    "mineral": "Rutile",
+    "uses": "Ore of titanium, pigment and as an ornamental stone when in\nclear quartz"
+  },
+  {
+    "mineral": "Safflorite",
+    "uses": "As a very minor ore of cobalt and arsenic and as mineral specimens."
+  },
+  { "mineral": "Sainfeldite", "uses": "Only as mineral specimens." },
+  { "mineral": "Sal_ammoniac", "uses": "As mineral specimens." },
+  {
+    "mineral": "Samarskite",
+    "uses": "A minor ore of rare earth elements and uranium, sometimes\ncut as a gemstone\nand as mineral specimens."
+  },
+  { "mineral": "Sanbornite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Sandstone",
+    "uses": "Building material, decorative stones, tiles,\n tombstones,   monuments, roads, ore of silica for glass, abrasives, aquifers, \npetroleum  reservoirs"
+  },
+  {
+    "mineral": "Sanidine",
+    "uses": "Mineral specimens and in the porcelain industry."
+  },
+  { "mineral": "Sapphire", "uses": "Gemstone." },
+  { "mineral": "Sard", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Sardonyx", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Sartorite", "uses": "Only as mineral specimens." },
+  { "mineral": "Scapolite", "uses": "As gemstones and as mineral specimens." },
+  {
+    "mineral": "Scheelite",
+    "uses": "An important source of tungsten, rarely cut as gemstones and as mineral specimens."
+  },
+  { "mineral": "Schmitterite", "uses": "Only as mineral specimens." },
+  { "mineral": "Scholzite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Schorl",
+    "uses": "Mineral collection specimens, electrical uses and as ornamental stone."
+  },
+  {
+    "mineral": "Schrockingerite",
+    "uses": "As a very insignificant source of uranium and as mineral specimens."
+  },
+  { "mineral": "Scolecite", "uses": "Mineral specimen and chemical filter" },
+  { "mineral": "Scorodite", "uses": "Only as mineral specimens" },
+  {
+    "mineral": "Scorzalite",
+    "uses": "Mineral specimens and ornamental stone."
+  },
+  {
+    "mineral": "Selenite",
+    "uses": "Plaster, wall board, some cements, fertilizer, paint filler, ornamental stone, etc.."
+  },
+  { "mineral": "Selenium", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Semseyite",
+    "uses": "As mineral specimens and as a very minor ore of lead."
+  },
+  {
+    "mineral": "Senarmontite",
+    "uses": "A minor ore of antimony and as mineral specimens."
+  },
+  { "mineral": "Serandite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Serpentine",
+    "uses": "Many industrial applications, including brake linings and fireproof fabrics and as an ornamental stone."
+  },
+  {
+    "mineral": "Shattuckite",
+    "uses": "A very minor ore of copper and as an ornamental stone."
+  },
+  {
+    "mineral": "Siderite",
+    "uses": "A minor ore of iron and as mineral specimens."
+  },
+  {
+    "mineral": "Silicon",
+    "uses": "As an integrated circuit (ic) substrate and semiconductor."
+  },
+  {
+    "mineral": "Sillimanite",
+    "uses": "In the manufacture of spark plugs etc, rarely as a gemstone and as mineral specimens."
+  },
+  {
+    "mineral": "Silver",
+    "uses": "Minor ore of silver for use in \njewelry, \ncoins and photographic films and other industrial uses."
+  },
+  { "mineral": "Sinhalite", "uses": "An a gemstone and as mineral specimens." },
+  { "mineral": "Sjogrenite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Sklodowskite",
+    "uses": "Mineral specimen and very minor ore of uranium"
+  },
+  { "mineral": "Skutterudite", "uses": "A minor ore of cobalt and nickel" },
+  {
+    "mineral": "Smithsonite",
+    "uses": "Minor ore of zinc and as mineral specimens."
+  },
+  { "mineral": "Smoky_quartz", "uses": "Gemstone and ornamental stone." },
+  { "mineral": "Sodalite", "uses": "Mineral specimens and ornamental stone" },
+  {
+    "mineral": "Spangolite",
+    "uses": "As a minor ore of copper and as mineral specimens."
+  },
+  {
+    "mineral": "Sperrylite",
+    "uses": "Ore of platinum and as mineral specimens."
+  },
+  {
+    "mineral": "Spessartine",
+    "uses": "Abrasive, mineral specimens and as a \ngemstone"
+  },
+  {
+    "mineral": "Sphaerocobaltite",
+    "uses": "Very minor ore of cobalt and as a mineral specimen."
+  },
+  {
+    "mineral": "Sphalerite",
+    "uses": "Major ore of zinc, rarely cut into gemstones, mineral specimen"
+  },
+  {
+    "mineral": "Sphene",
+    "uses": "Mineral specimens, source of tio2 (a pigment) and as a gemstone."
+  },
+  { "mineral": "Spinel", "uses": "As a gemstone and as a mineral specimen" },
+  { "mineral": "Spodumene", "uses": "Gemstone and ore of lithium." },
+  { "mineral": "Staurolite", "uses": "Mineral specimens" },
+  { "mineral": "Stellerite", "uses": "Mineral specimen and chemical filter" },
+  {
+    "mineral": "Stephanite",
+    "uses": "An ore of silver and as mineral specimens."
+  },
+  {
+    "mineral": "Stibarsen",
+    "uses": "A very minor ore of antimony and arsenic and as mineral specimens."
+  },
+  {
+    "mineral": "Stibiconite",
+    "uses": "Mineral specimens and a very minor ore of antimony"
+  },
+  {
+    "mineral": "Stibnite",
+    "uses": "An ore of antimony and as mineral specimens."
+  },
+  {
+    "mineral": "Stichtite",
+    "uses": "Very minor ore of chromium, as a mineral specimen and ornamental stone."
+  },
+  { "mineral": "Stilbite", "uses": "Mineral specimen and chemical filter" },
+  {
+    "mineral": "Stishovite",
+    "uses": "As an indicator of a meteor impact and as mineral specimens."
+  },
+  {
+    "mineral": "Strengite",
+    "uses": "As mineral specimens and limited ornamental stone uses."
+  },
+  {
+    "mineral": "Strontianite",
+    "uses": "A minor ore of strontium and as mineral specimens."
+  },
+  { "mineral": "Strunzite", "uses": "Only as mineral specimens." },
+  { "mineral": "Sturmanite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Sugilite",
+    "uses": "As an ornamental and semi-precious stone used in jewelry and as a mineral specimen."
+  },
+  {
+    "mineral": "Sulfur",
+    "uses": "Major ore of sulfur which is used for chemical production"
+  },
+  {
+    "mineral": "Sunstone",
+    "uses": "Ornamental and semi-precious stone and as mineral specimens."
+  },
+  { "mineral": "Suolunite", "uses": "Only as mineral specimens." },
+  { "mineral": "Susannite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Sussexite",
+    "uses": "A very minor ore of manganese and as mineral specimens."
+  },
+  { "mineral": "Svanbergite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Sylvanite",
+    "uses": "A very minor ore of silver and gold and as mineral specimens."
+  },
+  {
+    "mineral": "Sylvite",
+    "uses": "As a major source of potash and as mineral specimens."
+  },
+  { "mineral": "Symplesite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Synchysite",
+    "uses": "As a minor ore of cerium and other rare earth metals and as mineral specimens."
+  },
+  { "mineral": "Taaffeite", "uses": "Only as a gemstone." },
+  { "mineral": "Tainiolite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Talc",
+    "uses": "An ornamental and heat, acid and electrically-resistant stone (soapstone) \nused as counter tops, electrical switchboards, carvings, etc, used as an ingredient in \npaints, rubber, roofing materials, ceramics and insecticides.  most commonly known as the primary ingredient in talcum powder."
+  },
+  {
+    "mineral": "Tantalite",
+    "uses": "An ore of tantalum and niobium and as mineral specimens."
+  },
+  { "mineral": "Tanzanite", "uses": "Gemstone" },
+  { "mineral": "Tarbuttite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Tektites",
+    "uses": "As a gemstone and as collection specimens"
+  },
+  {
+    "mineral": "Tellurium",
+    "uses": "A minor ore of tellurium and as mineral specimens."
+  },
+  {
+    "mineral": "Tennantite",
+    "uses": "Ore of copper and a minor ore of silver and arsenic."
+  },
+  {
+    "mineral": "Tephroite",
+    "uses": "A very minor ore of manganese and as mineral specimens."
+  },
+  {
+    "mineral": "Tetrahedrite",
+    "uses": "Ore of copper and as a minor ore of silver."
+  },
+  { "mineral": "Thaumasite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Thenardite",
+    "uses": "As a source of sodium to produce soda, various uses in the glass and paper industries and as mineral specimens."
+  },
+  { "mineral": "Thomsonite", "uses": "Mineral specimen and chemical filter." },
+  {
+    "mineral": "Thorite",
+    "uses": "As a minor ore of thorium and uranium and as mineral specimens."
+  },
+  {
+    "mineral": "Thorogummite",
+    "uses": "As a very minor ore of thorium and uranium and as mineral\nspecimens."
+  },
+  { "mineral": "Tin", "uses": "Many applications for metallic tin." },
+  { "mineral": "Tinaksite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Tincalconite",
+    "uses": "As an ore of boron and as a source of borax (a cleaning agent and useful industrial chemical)"
+  },
+  {
+    "mineral": "Titanium",
+    "uses": "A white pigment (as oxide), medical devices, jewelry,\naerospace alloys and military armor."
+  },
+  {
+    "mineral": "Titanite",
+    "uses": "Mineral specimens, source of tio2 (a pigment) and as a gemstone."
+  },
+  {
+    "mineral": "Topaz",
+    "uses": "Gemstones and optical properties are useful in industry."
+  },
+  { "mineral": "Topazolite", "uses": "Gemstone." },
+  {
+    "mineral": "Torbernite",
+    "uses": "A minor ore of uranium and mineral specimens"
+  },
+  { "mineral": "Tremolite", "uses": "Asbestos and as a mineral specimen." },
+  {
+    "mineral": "Tridymite",
+    "uses": "As an indicator of high temperature crystallization and as mineral specimens."
+  },
+  {
+    "mineral": "Triphylite",
+    "uses": "As a source of lithium and phosphorus and as mineral\nspecimens."
+  },
+  { "mineral": "Trona", "uses": "Only as mineral specimens." },
+  { "mineral": "Tsavorite", "uses": "Gemstone." },
+  { "mineral": "Tsumcorite", "uses": "Only as mineral specimens." },
+  { "mineral": "Tsumebite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Turquoise",
+    "uses": "As an ornamental stone for carving and jewelry."
+  },
+  {
+    "mineral": "Tyuyamunite",
+    "uses": "A very minor ore of uranium and as mineral specimens"
+  },
+  { "mineral": "Ulexite", "uses": "An ore of boron and as mineral specimens." },
+  {
+    "mineral": "Ullmannite",
+    "uses": "As a very minor ore of nickel and as mineral specimens."
+  },
+  {
+    "mineral": "Uraninite",
+    "uses": "A major ore of uranium and radium, a source of helium and as a mineral specimen"
+  },
+  {
+    "mineral": "Uranocircite",
+    "uses": "A very minor ore of uranium and mineral specimens"
+  },
+  {
+    "mineral": "Uranophane",
+    "uses": "Mineral specimen and minor ore of uranium"
+  },
+  {
+    "mineral": "Uranopilite",
+    "uses": "A minor ore of uranium and mineral specimens"
+  },
+  { "mineral": "Uvarovite", "uses": "Gemstones and mineral specimens" },
+  { "mineral": "Uvite", "uses": "Only as mineral collection specimens" },
+  {
+    "mineral": "Valentinite",
+    "uses": "A minor ore of antimony and as mineral specimens."
+  },
+  {
+    "mineral": "Vanadinite",
+    "uses": "As a minor ore of lead and mineral specimens"
+  },
+  {
+    "mineral": "Variscite",
+    "uses": "Mineral specimens and ornamental stone applications"
+  },
+  { "mineral": "Vauxite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Vermiculite",
+    "uses": "As a toxic spill cleaner, a fire resistant material, soil additive and other industrial uses."
+  },
+  {
+    "mineral": "Vesuvianite",
+    "uses": "Mineral specimens and the gemstone, idocrase"
+  },
+  { "mineral": "Veszelyite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Villiaumite",
+    "uses": "Rarely cut as gemstones \nand as mineral specimens."
+  },
+  { "mineral": "Vivianite", "uses": "Only as a mineral specimen" },
+  { "mineral": "Volborthite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Walpurgite",
+    "uses": "A very minor ore of uranium and bismuth and as mineral specimens."
+  },
+  { "mineral": "Wardite", "uses": "Only as mineral specimens" },
+  { "mineral": "Wavellite", "uses": "Only as mineral specimens" },
+  { "mineral": "Weloganite", "uses": "Only as mineral specimens." },
+  { "mineral": "Wernerite", "uses": "As gemstones and as mineral specimens." },
+  { "mineral": "Whewellite", "uses": "Only as mineral specimens." },
+  { "mineral": "Whiteite", "uses": "Only as mineral specimens." },
+  { "mineral": "Whitlockite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Willemite",
+    "uses": "A minor ore of zinc and as mineral specimens."
+  },
+  {
+    "mineral": "Witherite",
+    "uses": "A minor ore of barium and as mineral specimens."
+  },
+  { "mineral": "Wolfeite", "uses": "Mineral specimens." },
+  {
+    "mineral": "Wolframite",
+    "uses": "An ore of tungsten (an important industrial element) and as a mineral specimen"
+  },
+  {
+    "mineral": "Wollastonite",
+    "uses": "In ceramics, as a paint filler and as mineral specimens."
+  },
+  { "mineral": "Woodhouseite", "uses": "Only as mineral specimens." },
+  {
+    "mineral": "Wulfenite",
+    "uses": "A minor ore of molybdenum and as mineral specimens."
+  },
+  {
+    "mineral": "Wurtzite",
+    "uses": "Minor ore of zinc and as mineral specimens"
+  },
+  {
+    "mineral": "Xenotime",
+    "uses": "As mineral specimens and as a source of yttrium."
+  },
+  { "mineral": "Xonotlite", "uses": "Only as a mineral specimen." },
+  { "mineral": "Yuksporite", "uses": "Only as a mineral specimen." },
+  {
+    "mineral": "Zeunerite",
+    "uses": "A minor ore of uranium and as mineral specimens"
+  },
+  { "mineral": "Zinc", "uses": "Many applications for the metal - zinc." },
+  { "mineral": "Zincite", "uses": "An ore of zinc and as mineral specimens." },
+  {
+    "mineral": "Zinkenite",
+    "uses": "Mineral specimens and as a very minor ore of lead."
+  },
+  {
+    "mineral": "Zinnwaldite",
+    "uses": "Mineral specimens and limited use as electrical and heat insulator for industrial purposes."
+  },
+  {
+    "mineral": "Zippeite",
+    "uses": "A minor ore of uranium and mineral specimens"
+  },
+  { "mineral": "Zircon", "uses": "Gemstone and mineral specimens" },
+  {
+    "mineral": "Zoisite",
+    "uses": "Mineral specimens, ornamental stone and gemstone."
+  }
+]

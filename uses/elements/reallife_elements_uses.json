@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "element": "hydrogen",
+    "uses": "Hydrogen makes up about 90% of atoms in the entire universe. The chemical is used heavily as both a gas and liquid fuel. Hydrogen was used as a main fuel for the space shuttle program by NASA as well as currently being used heavily by the petroleum and manufacturing industries."
+  },
+  {
+    "id": 2,
+    "element": "helium",
+    "uses": "Helium gas is commonly known to be lighter than air, which leads to its use in weather and party balloons. It is also used as an inert shield for arc welding and to pressurize liquid fuel tanks in rockets. Due to its wide recreational usage, natural sources of Helium are at risk of being completely depleted in the next decade, sparking fears for the scientific community."
+  },
+  {
+    "id": 3,
+    "element": "lithium",
+    "uses": "Lithium is known most commonly to be used in batteries. It is also used in aluminum alloys, to make cookware more durable, and most surprisingly, as a mood stabilizer for bipolar disorder."
+  },
+  {
+    "id": 4,
+    "element": "beryllium",
+    "uses": "This element is most commonly used as an alloying agent for copper. When combined, the resultant metal, beryllium copper, is used for springs and a variety of electrical applications. Due to its lightweight metal properties, it is used structurally in the aerospace industries."
+  },
+  {
+    "id": 5,
+    "element": "boron",
+    "uses": "Boron is used in pyrotechnics. When burned, it gives off a green color in the flame. More common uses are in boric acid and borax. You can find boron in antiseptics, washing chemicals, ceramic glazes, and eye drops."
+  },
+  {
+    "id": 6,
+    "element": "carbon",
+    "uses": "Carbon is the basis for the world's natural organic fuels such as natural gas, coal, and oil. Graphite, a strong molecular form of carbon is used for pencils, crucibles, and electrodes. Pure diamond is also entirely made out of carbon atoms. Another common application of the element is carbon nanotubes. Throughout all of its forms, Carbon's ability to form incredibly strong lattice elemental structures make it perfect for structural applications."
+  },
+  {
+    "id": 7,
+    "element": "nitrogen",
+    "uses": "78 percent of Earth's entire atmosphere is made up of nitrogen. The element is significant to the chemical industry as it is a key nutrient in fertilizers and a key component in nitric acid, nylon,\u00a0and explosive materials. The Haber process is a famous method of reacting nitrogen with hydrogen to create ammonia."
+  },
+  {
+    "id": 8,
+    "element": "oxygen",
+    "uses": "Oxygen is the most important element to human's survival. Pure oxygen is used to treat breathing problems and make spacecraft livable. Oxygen in industry is mainly used in the manufacturing of steel and other metal alloys."
+  },
+  {
+    "id": 9,
+    "element": "fluorine",
+    "uses": "Fluorine is a common additive to drinking water and is used as a cleaning agent in toothpaste. In pop culture, hydrofluoric acid was used as a dissolving agent in the popular TV show \"Breaking Bad.\" The chemical can dissolve glass and is used mainly as an etching compound."
+  },
+  {
+    "id": 10,
+    "element": "neon",
+    "uses": "Neon is the fourth most abundant element in the entire universe. By far the most prominent use of the element is used in advertising signs. When enticed with electricity, the glass commonly glows, leading to its use in the respective sign industry as well as high-voltage indicators and lasers."
+  },
+  {
+    "id": 11,
+    "element": "sodium",
+    "uses": "Sodium is used in streetlights to produce yellow light as well as being a component in many compounds like table salt, soda ash, borax, and baking soda."
+  },
+  {
+    "id": 12,
+    "element": "magnesium",
+    "uses": "Magnesium finds many of its uses in medicine as Epsom salts, milk of magnesia, chloride, and citrate. Magnesium is also essential to both animal and plant life."
+  },
+  {
+    "id": 13,
+    "element": "aluminum",
+    "uses": "Aluminum is a soft and malleable metal that has uses in cans and fouls, utensils, airplane and automotive parts, and other structural applications."
+  },
+  {
+    "id": 14,
+    "element": "silicon",
+    "uses": "Silicon is used extensively in the semiconductor industry in solid-state electronics. For such applications, the silicon has to be doped with boron, gallium, phosphorus or arsenic."
+  },
+  {
+    "id": 15,
+    "element": "phosphorus",
+    "uses": "Phosphorus is the\u00a0main nutrient for organic life through phosphate compounds. It is used in fertilizers to uphold the biological phosphorus cycle. It is also used in explosive and pyrotechnics."
+  },
+  {
+    "id": 16,
+    "element": "sulfur",
+    "uses": "Sulfur is used in gunpowder and other pyrotechnics, rubber manufacturing, and as an insecticide, fungicide, and fumigant. It can also be used to treat skin diseases, however, its prime use is in compound separation."
+  },
+  {
+    "id": 17,
+    "element": "chlorine",
+    "uses": "Chlorine is used in water treatment and as an antiseptic. During the production of papers, plastics, solvents, and textiles, large amounts of chlorine are also used."
+  },
+  {
+    "id": 18,
+    "element": "argon",
+    "uses": "Argon is used in incandescent and fluorescent bulbs as a protective layer around the filament to keep oxygen from corroding it. It is also used as a protective shield in arc welding and semiconductor crystals."
+  },
+  {
+    "id": 19,
+    "element": "potassium",
+    "uses": "Potassium is mainly used in compounds. It is combined with chlorine to produce potassium chloride which is used in fertilizers. Potassium hydroxide is also used in soaps and cleaners."
+  },
+  {
+    "id": 20,
+    "element": "calcium",
+    "uses": "Calcium is used to prepare thorium and uranium as a reducing agent. It is also used as an alloying agent in aluminum, copper, lead, and magnesium."
+  },
+  {
+    "id": 21,
+    "element": "scandium",
+    "uses": "Used heavily in mercury vapor lamps, Scandium is a\u00a0key element in stadium lights. Its radioactive isotope is also used as a tracing agent."
+  },
+  {
+    "id": 22,
+    "element": "titanium",
+    "uses": "Titanium is an incredibly strong metal used in alloys with aluminum, iron, and other metals. This strong metal is used in the aerospace industry as well as engines. It can\u00a0maintain its strength in thermal extremes."
+  },
+  {
+    "id": 23,
+    "element": "vanadium",
+    "uses": "This element is used in jet engines and aircraft components. All of its uses require it to be combined with another metal or element, such as Vanadium-gallium tape used in magnets."
+  },
+  {
+    "id": 24,
+    "element": "chromium",
+    "uses": "Chromium is used in stainless steel as well as in the chrome plating process. Various chromium compounds are known for their vivid colors."
+  },
+  {
+    "id": 25,
+    "element": "manganese",
+    "uses": "Manganese dioxide makes up about .14% of Earth's crust. It is used in glass to remove the green color present from iron compounds."
+  },
+  {
+    "id": 26,
+    "element": "iron",
+    "uses": "Iron's prime use is in making steel. When steel is combined with chromium, it produces stainless steel which is resistant to corrosion."
+  },
+  {
+    "id": 27,
+    "element": "cobalt",
+    "uses": "Cobalt is used mostly as a cancer treatment and in radiotherapy."
+  },
+  {
+    "id": 28,
+    "element": "nickel",
+    "uses": "Nickel is used in stainless steel and other anti-corrosion metal alloys. Other prominent uses include piping and tubing production as well as in the desalination process."
+  },
+  {
+    "id": 29,
+    "element": "copper",
+    "uses": "Copper is one of the best conductors of electricity, which lends to its use in electronics and motors. The metal is also very thermally conductive, so it is used in radiators, A/C units, and heating systems."
+  },
+  {
+    "id": 30,
+    "element": "zinc",
+    "uses": "Zinc is used as an alloying agent in brass, nickel, silver and aluminum. Paints, rubbers, cosmetics, batteries, textiles, and inks also have\u00a0a significant need for the element."
+  },
+  {
+    "id": 31,
+    "element": "gallium",
+    "uses": "Since gallium has a low melting point, it is often used in medical thermometers as a substitute\u00a0for mercury. When combined with arsenic, it is used in semiconductors, lasers, and solar panels. It can also be used in mirror manufacturing."
+  },
+  {
+    "id": 32,
+    "element": "germanium",
+    "uses": "Germanium finds its uses in the semiconductor industry. When it is doped with other elements, it makes highly efficient transistors. Continuing on with its electronic uses, it is also implemented in fluorescent lamps."
+  },
+  {
+    "id": 33,
+    "element": "arsenic",
+    "uses": "This element is used as a doping agent in transistors, primarily with Gallium. Many arsenic compounds are used as insecticides and poisons."
+  },
+  {
+    "id": 34,
+    "element": "selenium",
+    "uses": "Primary uses for selenium are in the glass industry. Its properties allow it to decolorize class and make red glass as well. It is used in solar and photocells. In film photography, it is also used as a photographic toner."
+  },
+  {
+    "id": 35,
+    "element": "bromine",
+    "uses": "Bromine is used as a flame-retarder in plastics and electronics. It can also be used to purify and disinfect water, leading to its uses in swimming pools and hot tubs."
+  },
+  {
+    "id": 36,
+    "element": "krypton",
+    "uses": "About .0001% of Earth's atmosphere is krypton, which makes obtaining it relatively hard. The element is used for flashes in high-speed photography as well as a conductive gas in fluorescent lights."
+  },
+  {
+    "id": 37,
+    "element": "rubidium",
+    "uses": "Rubidium is used in vacuum tubes to remove trace\u00a0gases. It also is heavily used in photocells and specialized glasses. It can be ionized easily, so it is often utilized as a propellant in spacecraft."
+  },
+  {
+    "id": 38,
+    "element": "strontium",
+    "uses": "Strontium is used in pyrotechnics to produce brilliant reds. It can also be used in ferrite magnet production and zinc refining."
+  },
+  {
+    "id": 39,
+    "element": "yttrium",
+    "uses": "An oxide of yttrium is used to make red phosphorus television tubes. Along with this, it is used to increase the strength in aluminum and magnesium alloys."
+  },
+  {
+    "id": 40,
+    "element": "zirconium",
+    "uses": "Zirconium is used as an anti-corrosion compound in pumps and valves. It does not absorb neutrons, so it is also widely used in nuclear reactors."
+  },
+  {
+    "id": 41,
+    "element": "niobium",
+    "uses": "Niobium is used in stainless steel alloys. Alloys produced with Niobium are very strong and are often used in pipelines and jet engines."
+  },
+  {
+    "id": 42,
+    "element": "molybdenum",
+    "uses": "Molybdenum is used in missile and aircraft parts as well as the nuclear power industry. It can be used to refine petroleum, but its main use is as an alloying agent to refine steel."
+  },
+  {
+    "id": 43,
+    "element": "technetium",
+    "uses": "Technetium is a synthesized element that can be used as a radioactive tracer."
+  },
+  {
+    "id": 44,
+    "element": "ruthenium",
+    "uses": "Ruthenium is used as a catalyst to harden metals. It is also used in electrical contacts and to color glass."
+  },
+  {
+    "id": 45,
+    "element": "rhodium",
+    "uses": "Rhodium is used to manufacture electrical contacts. This use extends into catalytic converters, but its primary use is as an alloying agent. Alloys of rhodium can be used in furnaces, electrodes, and spark plugs."
+  },
+  {
+    "id": 46,
+    "element": "palladium",
+    "uses": "Palladium is an important element to the catalytic\u00a0conversion process. It is also used in jewelry and dental fillings."
+  },
+  {
+    "id": 47,
+    "element": "silver",
+    "uses": "Silver is used in jewelry and tableware. It is the best reflector of light known to man, although it does tarnish. It is used in soldering and brazing compounds as well as batteries."
+  },
+  {
+    "id": 48,
+    "element": "cadmium",
+    "uses": "Cadmium is poisonous, so it has few uses. It can be used to prevent corrosion or to absorb neutrons in nuclear reactors. One of its more commercial uses is in rechargeable nickel-cadmium batteries."
+  },
+  {
+    "id": 49,
+    "element": "indium",
+    "uses": "Indium is primarily used as a doping agent for germanium in the transistor manufacturing process. It is also used to make highly reflective mirrors and low-melting point alloys."
+  },
+  {
+    "id": 50,
+    "element": "tin",
+    "uses": "Tin has the ability to be polished to a high degree and is not corrodible. It is mainly used to coat other metals or as an alloy in solder and pewter. Niobium-tin magnets are known for their superconducting abilities."
+  },
+  {
+    "id": 51,
+    "element": "antimony",
+    "uses": "Antimony is mainly used in batteries, cable sheathing, and other metal products. It can be used to make flame-proof materials and paints. Ancient Egyptians\u00a0used the element as black eye make-up."
+  },
+  {
+    "id": 52,
+    "element": "tellurium",
+    "uses": "Tellurium allows better machinability of copper and stainless steel. It is used as a basic component of cast iron and blasting caps."
+  },
+  {
+    "id": 53,
+    "element": "iodine",
+    "uses": "Iodine is used in photographic film and as an antiseptic for wounds. The radioactive isotope iodine-131 is used to treat some thyroid diseases."
+  },
+  {
+    "id": 54,
+    "element": "xenon",
+    "uses": "Xenon is used in photographic flashes and arc lamps for movie sets. When pressurized into an arc lamp, it can produce UV light. It is also used for radiation detection and in X-ray counters."
+  },
+  {
+    "id": 55,
+    "element": "caesium",
+    "uses": "Caesium is used as a getter in vacuum tubes to remove trace gasses. It is also a prime element in atomic clocks as well as being a catalyst to the process of hydrogenation."
+  },
+  {
+    "id": 56,
+    "element": "barium",
+    "uses": "Barium is used to produce a green glow in pyrotechnics. It is also used as a getter to remove gases from vacuum tubes. Compounds of barium are used as a contrast medium in X-rays."
+  },
+  {
+    "id": 57,
+    "element": "lanthanum",
+    "uses": "Lanthanum is used along with rare earth elements to make arc lights for movie sets. The metal also makes up about 25% of Misch metal, which is used in flint production for lighters."
+  },
+  {
+    "id": 58,
+    "element": "cerium",
+    "uses": "Cerium is also used as a component of Misch metal to produce flint for lighters. It can be used as a catalyst to refine oil. Cerium oxide is also used as a component of walls in self-cleaning ovens."
+  },
+  {
+    "id": 59,
+    "element": "praseodymium",
+    "uses": "Praseodymium is used to make yellow glass goggles for welders. Praseodymium is also used in flint lighter products. Its main use, however, is to color glass and enamels."
+  },
+  {
+    "id": 60,
+    "element": "neodymium",
+    "uses": "Neodymium is used to make flint for lighters\u00a0and is a component of specialized welder's goggles. It can also be used to make powerful magnets."
+  },
+  {
+    "id": 61,
+    "element": "promethium",
+    "uses": "Promethium is used mainly for research in radiation. It can be used in nuclear batteries and as a light source for signals. Researchers believe that it could soon be used in portable x-ray machines."
+  },
+  {
+    "id": 62,
+    "element": "samarium",
+    "uses": "Samarium is used as a catalyst for dehydration and dehydrogenation of ethanol fuels. It can also be used to absorb infrared light rays and in the treatment of cancer."
+  },
+  {
+    "id": 63,
+    "element": "europium",
+    "uses": "Europium is a good absorber of neutrons, so it is often used in nuclear reactors. One of its compounds is also used in the production of red phosphorus in television sets."
+  },
+  {
+    "id": 64,
+    "element": "gadolinium",
+    "uses": "Gadolinium is often used in applications where microwaves are present. It can also be used in green phosphor television tubes. The element is magnetic, which has led to its use in MRI machines."
+  },
+  {
+    "id": 65,
+    "element": "terbium",
+    "uses": "Terbium is used as a stabilizer of high-temperature fuel cells. Its alloys are also used in electronic devices and as magnetic field indicators."
+  },
+  {
+    "id": 66,
+    "element": "dysprosium",
+    "uses": "When combined with rare earth elements, Dysprosium is used as a laser material. It can also be used in nuclear reactor rods."
+  },
+  {
+    "id": 67,
+    "element": "holmium",
+    "uses": "Holmium is used in the production of magnets as a flux concentrator. It is also used as a yellow or red color in cubic zirconia manufacturing."
+  },
+  {
+    "id": 68,
+    "element": "erbium",
+    "uses": "Erbium is a good neutron absorber, leading to its use in nuclear control rods. It can also be used to reduce the hardness of metals along with applications in amps and lasers."
+  },
+  {
+    "id": 69,
+    "element": "thulium",
+    "uses": "Thulium is the least naturally-occurring element on earth. This soft metal is very expensive and has no commercial applications."
+  },
+  {
+    "id": 70,
+    "element": "ytterbium",
+    "uses": "Ytterbium is believed to be useable in grain refinement within steel. Other than this plausible use, no other uses have been found."
+  },
+  {
+    "id": 71,
+    "element": "lutetium",
+    "uses": "Lutetium is very rare and high in price. When refined, it can be used in the petroleum cracking process. There are few other commercial applications."
+  },
+  {
+    "id": 72,
+    "element": "hafnium",
+    "uses": "Hafnium is a good neutron absorber, so it is used in nuclear control rods in nuclear submarines. Due to its high melting point, it is also used in plasma welding torches. Hafnium oxide is used in microchips."
+  },
+  {
+    "id": 73,
+    "element": "tantalum",
+    "uses": "Tantalum is used in the electronics industry for capacitors and resistors. It can be used to increase strength in metal alloys as well as increase corrosion resistance. The metal is also used in surgical instruments because it causes no immune response."
+  },
+  {
+    "id": 74,
+    "element": "tungsten",
+    "uses": "Tungsten has the highest melting point of all metals, leading to its use as filaments in incandescent bulbs. It is also used in steels to impart strength."
+  },
+  {
+    "id": 75,
+    "element": "rhenium",
+    "uses": "Rhenium is a common catalyst in the production of high-octane gasoline. It is also used in alloys for jet engines and as filaments for mass spectrographs."
+  },
+  {
+    "id": 76,
+    "element": "osmium",
+    "uses": "Osmium is mainly used to make hard metal alloys. You can find it in ball point pen tips, record needles, electrical contacts, and other metal components where friction needs to be mitigated."
+  },
+  {
+    "id": 77,
+    "element": "iridium",
+    "uses": "Iridium is mostly used as a hardening agent for platinum. This element is also used in fountain pen tips and compass bearings."
+  },
+  {
+    "id": 78,
+    "element": "platinum",
+    "uses": "Platinum has long been used for jewelry and for its corrosion resistant properties. Its main use is in catalytic converters for automobiles."
+  },
+  {
+    "id": 79,
+    "element": "gold",
+    "uses": "Gold is one of the most coveted metals in the world. It can be shaped and sculpted and it does not tarnish."
+  },
+  {
+    "id": 80,
+    "element": "mercury",
+    "uses": "Mercury is used to make thermometers, barometers, and other instruments. It is often used in streetlights and fluorescent lamps."
+  },
+  {
+    "id": 81,
+    "element": "thallium",
+    "uses": "Thallium is used to form low-melting point glass. It was once used as rat poison, but it is now banned from household use."
+  },
+  {
+    "id": 82,
+    "element": "lead",
+    "uses": "Lead is used as a coating for wires to protect from corrosion. Most lead is used in lead-acid batteries for automobiles."
+  },
+  {
+    "id": 83,
+    "element": "bismuth",
+    "uses": "Bismuth is usually used in fire detectors and fire extinguishment systems due to its low melting point. This has also led to its use in electrical fuses."
+  },
+  {
+    "id": 84,
+    "element": "polonium",
+    "uses": "Polonium is used as an atomic heat source for short term use. It is also seen in anti-static brushes and in film."
+  },
+  {
+    "id": 85,
+    "element": "astatine",
+    "uses": "Astatine is used as a radioactive tracer and in cancer treatment."
+  },
+  {
+    "id": 86,
+    "element": "radon",
+    "uses": "Radon is used to treat cancer. It was often produced in hospitals by pumping radon from radium and then sealing it into tubes."
+  },
+  {
+    "id": 87,
+    "element": "francium",
+    "uses": "The most stable isotope of francium, francium-223, has a half-life of 22 minutes. Due to its short lifespan, this element has no uses."
+  },
+  {
+    "id": 88,
+    "element": "radium",
+    "uses": "Radium is used as a neutron source and is also used to produce radon. One gram of radium-226 will make .0001 mL of radon each day. The element is 1,000,000 times more active than uranium."
+  },
+  {
+    "id": 89,
+    "element": "actinium",
+    "uses": "Actinium is used in medicine for radio-immunotherapy. It is only found in uranium ore, which makes it very expensive. One ton of uranium is equivalent to 1/10th of a gram of actinium."
+  },
+  {
+    "id": 90,
+    "element": "thorium",
+    "uses": "Thorium is used to coat filaments in incandescent bulbs. It can be used as nuclear fuel through fission."
+  },
+  {
+    "id": 91,
+    "element": "protactinium",
+    "uses": "There are currently no uses for protactinium due to its relative rarity."
+  },
+  {
+    "id": 92,
+    "element": "uranium",
+    "uses": "Uranium generates heat for nuclear power reactors and produces the material needed for nuclear weapons. It is also used as a colorant for glass."
+  },
+  {
+    "id": 93,
+    "element": "neptunium",
+    "uses": "Neptunium does not have any known uses."
+  },
+  {
+    "id": 94,
+    "element": "plutonium",
+    "uses": "Plutonium is used as a nuclear fuel and in nuclear weapons."
+  },
+  {
+    "id": 95,
+    "element": "americium",
+    "uses": "Americium is used in smoke detectors and is a portable source of gamma rays."
+  },
+  {
+    "id": 96,
+    "element": "curium",
+    "uses": "Curium is mainly used for research, but it could produce more nuclear energy per gram than plutonium."
+  },
+  {
+    "id": 97,
+    "element": "berkelium",
+    "uses": "Berkelium has no uses due to its rarity."
+  },
+  {
+    "id": 98,
+    "element": "californium",
+    "uses": "Californium is a strong neutron emitter. It is used in metal detectors for silver and gold. It also can be used to identify oil layers underground and detect metal fatigue in aerospace applications."
+  },
+  { "id": 99, "element": "einsteinium", "uses": "No use outside research." },
+  { "id": 100, "element": "fermium", "uses": "No use outside research." },
+  { "id": 101, "element": "mendelevium", "uses": "No use outside research." },
+  { "id": 102, "element": "nobelium", "uses": "No use outside research." },
+  { "id": 103, "element": "lawrencium", "uses": "No use outside research." },
+  { "id": 104, "element": "rutherfordium", "uses": "No use outside research." },
+  { "id": 105, "element": "dubnium", "uses": "No use outside research." },
+  { "id": 106, "element": "seaborgium", "uses": "No use outside research." },
+  { "id": 107, "element": "bohrium", "uses": "No use outside research." },
+  { "id": 108, "element": "hassium", "uses": "No use outside research." },
+  { "id": 109, "element": "meitnerium", "uses": "No use outside research." },
+  { "id": 110, "element": "darmstadtium", "uses": "No use outside research." },
+  { "id": 111, "element": "roentgenium", "uses": "No use outside research." },
+  { "id": 112, "element": "copernicium", "uses": "No use outside research." },
+  { "id": 113, "element": "nihonium", "uses": "No use outside research." },
+  { "id": 114, "element": "flerovium", "uses": "No use outside research." },
+  { "id": 115, "element": "moscovium", "uses": "No use outside research." },
+  { "id": 116, "element": "livermorium", "uses": "No use outside research." },
+  { "id": 117, "element": "tennessine", "uses": "No use outside research." },
+  { "id": 118, "element": "oganesson", "uses": "No use outside research." }
+]
